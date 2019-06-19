@@ -1,0 +1,5 @@
+Rules:
+
+Input the number that you would like to find the sum of all multiples of 3 and 5 below.
+
+The number printed will be this sum
